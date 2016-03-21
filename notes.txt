@@ -1,0 +1,2 @@
+Inte ha en prick i HUDen som visar vart man tittar
+inte låta notiser visas in-game
